@@ -1,1 +1,1 @@
-# hr_alaytics
+# hr_analytics
